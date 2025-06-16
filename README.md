@@ -69,9 +69,9 @@ Performance is reported using optimal threshold $\tau$ derived from normal valid
 If our project is helpful for your research, please consider citing :
 
 ```
-@article{yi2024jsen,
-  title={A new lightweight deep learning model optimized with pruning and dynamic quantization to detect freezing gait on wearable devices},
-  author={Myung-Kyu Yi and Seong Oun Hwang},
+@article{yi2025jsen,
+  title={Denoising Diffusion Implicit Models for Unsupervised Hypertension Monitoring from Photoplethysmography Signals},
+  author={Myung-Kyu Yi and In Young Kim},
   journal={},
   volume={},
   Issue={},
