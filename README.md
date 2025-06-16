@@ -56,10 +56,9 @@ Performance is reported using optimal threshold $\tau$ derived from normal valid
 
 | File/Folder               | Description |
 |---------------------------|-------------|
-| `models/`                 | UNet-based 1D DDIM architecture |
+| `model.py`                | UNet-based 1D DDIM architecture |
 | `train_ddim.py`           | Training loop (unsupervised) |
 | `inference.py`            | Anomaly scoring & threshold-based detection |
-| `utils/`                  | Signal preprocessing, visualization |
 
 ---
 
