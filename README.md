@@ -1,9 +1,7 @@
-# Official Implementation of  
-**"Denoising Diffusion Implicit Models for Unsupervised Hypertension Monitoring from Photoplethysmography Signals"**  
-by **Myung-Kyu Yi** and **In Young Kim**
 
-📄 [Submitted for publication]  
-🔗 DOI: _To be updated upon publication_
+>**This is the official implementation of the paper with the title “Denoising Diffusion Implicit Models for Unsupervised Hypertension Monitoring from Photoplethysmography Signalsn” by **Myung-Kyu Yi** and **In Young Kim**
+📄 https://ieeexplore.ieee.org/document/
+🔗 DOI : 
 
 ---
 
