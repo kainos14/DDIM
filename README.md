@@ -14,7 +14,7 @@ While blood pressure monitoring is essential for managing hypertension, obtainin
 
 Key contributions include:
 - A 1D-DDIM framework tailored for physiological signals
-- Customized UNet backbone with attention and timestep embeddings
+- Customized 1D U-Net backbone with attention and timestep embeddings
 - Evaluation across 3 public datasets: **BP Assessment**, **PPG-BP**, and **PulseDB**
 
 ---
@@ -34,7 +34,7 @@ The model follows a 1D UNet-based DDIM pipeline:
 
 - **Forward Process**: Gaussian noise added over time steps  
 - **Reverse Process**: Deterministic DDIM sampling with learned denoiser  
-- **Backbone**: 1D UNet with Timestep Embedding, Cross-Attention, and Residual Blocks  
+- **Backbone**: 1D U-Net with Timestep Embedding, Cross-Attention, and Residual Blocks  
 
 Threshold $\tau$ is selected based on reconstruction error distribution of normal validation samples.
 
