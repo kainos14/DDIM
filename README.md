@@ -7,7 +7,7 @@
 
 ## 🧠 Paper Overview
 
-This repository provides the official implementation of the proposed DDIM-based unsupervised anomaly detection framework for hypertension screening from raw PPG signals.  
+While blood pressure monitoring is essential for managing hypertension, obtaining labeled data from hypertensive patients remains challenging, limiting the use of supervised learning approaches. To overcome this limitation, this study presents an unsupervised hypertension detection framework based on Denoising Diffusion Implicit Models (DDIM) with photoplethysmography (PPG) signals. The model is trained exclusively on normotensive PPG signals to learn the distribution of physiological waveforms, enabling the identification of hypertensive patterns as reconstruction deviations. A temporally conditioned 1D U-Net is used to estimate noise in the reverse diffusion process, enabling deterministic signal reconstruction within the DDIM framework. Experiments conducted on three publicly available datasets—BP Assessment, PPG-BP, and PulseDB—demonstrate high F1 scores of 0.9067, 0.9130, and 0.9481, respectively. These findings demonstrate the strong generalizability of the proposed framework across diverse clinical environments and dataset scales, underscoring its potential for real-world hypertension screening using label-efficient, diffusion-based modeling.
 
 The model leverages **Denoising Diffusion Implicit Models (DDIM)** to learn the distribution of normal PPG signals, enabling label-free detection of morphological anomalies indicative of hypertension.
 
