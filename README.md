@@ -71,7 +71,7 @@ If our project is helpful for your research, please consider citing :
 ```
 @article{yi2025jsen,
   title={Denoising Diffusion Implicit Models for Unsupervised Hypertension Monitoring from Photoplethysmography Signals},
-  author={Myung-Kyu Yi and In Young Kim},
+  author={Myung-Kyu Yi, Jongshill Lee, Jeyeon Lee, and In Young Kim },
   journal={},
   volume={},
   Issue={},
