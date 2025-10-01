@@ -1,7 +1,7 @@
 
-## Denoising Diffusion Implicit Models for Unsupervised Hypertension Monitoring from Photoplethysmography Signals
+## Unsupervised Diffusion Framework for Hypertension Detection from Photoplethysmography
 
->**This is the official implementation of the paper with the title “**Denoising Diffusion Implicit Models for Unsupervised Hypertension Monitoring from Photoplethysmography Signals**” by **Myung-Kyu Yi**, **Jongshill Lee**, **Jeyeon Lee**, and **In Young Kim** 
+>**This is the official implementation of the paper with the title “**Unsupervised Diffusion Framework for Hypertension Detection from Photoplethysmography**” by **Myung-Kyu Yi**, **Jongshill Lee**, **Jeyeon Lee**, and **In Young Kim** 
 - 📄 https://
 - 🔗 DOI : 
 
